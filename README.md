@@ -2,10 +2,11 @@
 
 > A Vue.js project
 
-- dist配下はbuildされたもの
+- dist配下はbuildされたものがあるが、一緒にあげられなかったので、別リポジトリに
+  https://github.com/Suzuka-Samidare/vue-application-deploy-test-build-file
 - サーバ設定ファイルとパッケージ管理ファイルをdist配下に新規作成して、herokuにはdist配下のファイルをpush
-  - https://kuroeveryday.blogspot.com/2016/09/vue-cli.html
-  - https://kuroeveryday.blogspot.com/2016/09/vue-cli.html
+  - https://vue-application-deploy-test.herokuapp.com/#/
+  - https://vue-application-deploy-test.herokuapp.com/next.html#/
 
 ## Build Setup
 
